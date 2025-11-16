@@ -78,6 +78,7 @@ smart_parking/
    RAZORPAY_KEY_ID=
    RAZORPAY_KEY_SECRET=
    # Add other required variables
+
    ```
 
 5. Run the backend server:
