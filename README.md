@@ -75,6 +75,8 @@ smart_parking/
    ```
    DATABASE_URL=your_database_url
    SECRET_KEY=your_secret_key
+   RAZORPAY_KEY_ID=
+   RAZORPAY_KEY_SECRET=
    # Add other required variables
    ```
 
